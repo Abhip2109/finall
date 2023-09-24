@@ -42,7 +42,7 @@ let lastPosition = {
 let detailsImage = [
     {
         url: "https://www.youtube.com/watch?v=87MPqPynrXc",
-        name: "Transformation Dark Vador\n - Anakin devient Dark Vador"
+        name: "abhinav"
     },
     {
         url: "https://www.youtube.com/watch?v=FX8rsh83bGk",
