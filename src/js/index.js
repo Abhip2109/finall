@@ -41,7 +41,7 @@ let lastPosition = {
 }
 let detailsImage = [
     {
-        url: "https://www.youtube.com/watch?v=87MPqPynrXc",
+        url: "https://www.youtube.com/watch?v=exIMJIOvy9E",
         name: "abhinav"
     },
     {
